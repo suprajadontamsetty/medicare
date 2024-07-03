@@ -1,12 +1,3 @@
-<div align=center>
-  <h2>This Project is a part of</h2>
-  <img alt="GSSoC" src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png#gh-light-mode-only" width=87%>
-  <img alt="GSSoC" src="https://user-images.githubusercontent.com/63473496/213306279-338f7ce9-9a9f-4427-8c2a-3e344874498f.png#gh-dark-mode-only"/>
-</div>
-<br/>
-
-### Join Our Discord Server: 
-[![image](https://github.com/Sibam-Paul/medi-hub/assets/158052549/bf523a4b-e332-4234-901a-cc1597fa7741)](https://discord.gg/krQd2Fss)
 
 <br/>
 
@@ -66,7 +57,7 @@ The project repository is organized as follows:
 
 #### 2. Clone your forked repository
 ```sh
-git clone https://github.com/itsmohit097/medi-hub.git
+git clone https://github.com/suprajadontamsetty/medicare.git
 ```
 #### 3. Change the directory and install dependencies :
 ```shell
@@ -86,10 +77,5 @@ git clone https://github.com/itsmohit097/medi-hub.git
    now open the local host
    ```
    
-## 🙌 Contributing
-
-> **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [Code of Conduct](https://github.com/itsmohit097/medi-hub/blob/main/CODE_OF_CONDUCT.md).
-
-- Go through the [CONTRIBUTING.md](https://github.com/itsmohit097/medi-hub/blob/main/contributing.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
-- Do check out the [project issue tracker](https://github.com/itsmohit097/medi-hub/issues) section.
-- Do not raise any issues regarding READNE.md file.
+# deployed link
+[visit medicare](https://medi--hub.vercel.app/)
