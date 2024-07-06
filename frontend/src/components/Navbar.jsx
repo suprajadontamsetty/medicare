@@ -75,16 +75,16 @@ function Navbar() {
 
   const socialLinks = [
     {
-      to: "https://github.com/itsmohit097/medi-hub",
+      to: "https://github.com/suprajadontamsetty/medicare",
       label: "github",
       icon: FaGithub,
     },
     {
-      to: "https://www.linkedin.com/in/itsmohit097/",
+      to: "https://www.linkedin.com/in/bhagya-supraja-0124b2258/",
       label: "linkedin",
       icon: FaLinkedinIn,
     },
-    { to: "https://discord.gg/krQd2Fss", label: "discord", icon: FaDiscord },
+    { to: "#", label: "discord", icon: FaDiscord },
   ];
 
   return (
@@ -93,7 +93,7 @@ function Navbar() {
         {/* logo */}
         <NavLink to="/">
           <h1 className="text-3xl text-dark_theme tracking-wide font-bold">
-            MediHub
+            MediCare
           </h1>
         </NavLink>
 
