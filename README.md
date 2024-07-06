@@ -28,10 +28,6 @@ Join us on our journey to transform healthcare management. Whether you're a deve
 
 Feel free to customize it further to fit your preferences!
 
-> Here is an example of a Profile https://projectshut.vercel.app/projects/priyankarpal
-
-</p>
-
 
 ## 💻 Tech Stack
 
