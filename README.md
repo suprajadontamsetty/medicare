@@ -74,4 +74,4 @@ git clone https://github.com/suprajadontamsetty/medicare.git
    ```
    
 # deployed link
-[visit medicare](https://medi--hub.vercel.app/)
+[visit medicare](https://medicare-2v4b.onrender.com)
